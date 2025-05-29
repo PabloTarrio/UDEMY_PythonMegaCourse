@@ -2,7 +2,7 @@ import folium
 import pandas
 
 # Creamos el dataframe desde el archivo con los datos
-myData = pandas.read_csv("./Resources/Volcanoes.txt")
+myData = pandas.read_csv("../Resources/Volcanoes.txt")
 lat = list(myData["LAT"])
 lon = list(myData["LON"])
 elev = (list(myData["ELEV"]))
