@@ -31,18 +31,20 @@ longitud = list(misDatos['geometry.coordinates'].apply (lambda x: x[0]))
 latitud = list(misDatos['geometry.coordinates'].apply (lambda x: x[1]))
 nombre = list(misDatos['properties.location.name'])
 
+# Formato de los datos mostrados en el PopUP del mapa
+html = '''<h4>%s</h4>'''
+
 
 # Crear y caracterizar la capa de SITIOS GUARDADOS a los MARCADORES
 fg_saved = folium.FeatureGroup(name = 'Mis Sitios Guardados')
 
 for lat, lon, nm in zip(latitud, longitud, nombre):
-    lugar = str(nm)
-    coordinates = str(lat) + ", " + str(lon)
+    iframe = folium.IFrame(html %str(nm).title(), width=150, height=100)
     fg_saved.add_child (
         folium.CircleMarker (
             location = [lat, lon],
             radius = 6,
-            popup = lugar.title() + "\n" + coordinates,
+            popup = folium.Popup(iframe),
             icon = folium.Icon(color = 'darkgreen', icon_color = 'white'),
             color = 'gray',
             fill = True,
