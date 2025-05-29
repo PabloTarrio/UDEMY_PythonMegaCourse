@@ -1,0 +1,232 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -8.210921299999999,
+          43.2762707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Praza Pepito Arriola, 3, 15319 Betanzos, A Coruña, España",
+        "name": "Casa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.411598,
+          43.35892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "UIE Universidad - Campus A Coruña, Rda. Nelle, 31, 15007 A Coruña, España",
+        "name": "Trabajo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.4243327,
+          48.958956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Airbus Hellicopter"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.6160517,
+          41.497828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "R. da Moita, Portugal",
+        "name": "Quinchoso Dos Bentos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.2262342,
+          48.933085899999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dassault Aviation"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.1325974,
+          42.811951199999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Casa ANNABEL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.0959313,
+          43.472867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Casa Pachu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0523754,
+          47.5052792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Budapest, Hold u. 10-6, 1054 Hungría",
+        "name": "AirBnB Budapest"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.1208427,
+          37.9111824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Clemotzi Beach"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.353176,
+          43.615151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Airbus I - Toulouse"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.6403246,
+          42.866098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Metraltec SL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.7468621,
+          48.348054399999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ateliers Du Perche"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.784717999999998,
+          53.957394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Samelgo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.141935199999999,
+          38.7119698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "R. Trindade 32, Lisboa, Portugal",
+        "name": "Casa D Ferreira dos Tabuletes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.062819999999999,
+          43.465869999999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle del Coronel Bravo, 27, 33560 Ribadesella, Asturias, España",
+        "name": "Bungalow Ribadesella"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2905867,
+          43.198578499999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Panchi's at Viós"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.981465,
+          59.378750999999994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bus Market"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

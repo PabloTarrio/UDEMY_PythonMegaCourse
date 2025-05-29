@@ -1,0 +1,52 @@
+{
+  "editAction": "ADD_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0x4741dd10c49c24b9:0x3edaf176b4b285ae",
+  "nameChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "text": {
+        "text": "Puente Margarita",
+        "language": "es"
+      }
+    }]
+  },
+  "pointChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "point": {
+        "latE7": 474979120,
+        "lngE7": 190402350
+      }
+    }]
+  },
+  "businessExistenceChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "businessExistence": "Abrir"
+    }]
+  },
+  "placeExistenceChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "placeExistence": "Publicado"
+    }]
+  },
+  "categoryChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "category": "Puente"
+    }]
+  },
+  "addressChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "address": {
+        "text": "Budapest, Hungría",
+        "language": "es"
+      }
+    }]
+  },
+  "metadata": {
+    "createTime": "2018-09-27T16:05:38.417Z"
+  }
+}

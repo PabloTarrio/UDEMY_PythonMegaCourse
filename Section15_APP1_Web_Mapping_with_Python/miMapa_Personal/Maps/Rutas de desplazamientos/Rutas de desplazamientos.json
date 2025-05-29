@@ -1,0 +1,50 @@
+{"trips": [
+  {
+    "recurrence": {"weekly_pattern": {"day": [
+      {"day": 1},
+      {"day": 2},
+      {"day": 3},
+      {"day": 4},
+      {"day": 5}
+    ]}},
+    "id": "commute_to_home",
+    "place_visit": [
+      {
+        "departure_timing": {"time": {
+          "hour": 18,
+          "minute": 30
+        }},
+        "id": "26CD747CE7EC91B4",
+        "place": {"semantic_type": "TYPE_WORK"}
+      },
+      {
+        "id": "26CD747CE8705FDF",
+        "place": {"semantic_type": "TYPE_HOME"}
+      }
+    ]
+  },
+  {
+    "recurrence": {"weekly_pattern": {"day": [
+      {"day": 1},
+      {"day": 2},
+      {"day": 3},
+      {"day": 4},
+      {"day": 5}
+    ]}},
+    "id": "commute_to_work",
+    "place_visit": [
+      {
+        "id": "26CD747CD8B75473",
+        "place": {"semantic_type": "TYPE_HOME"}
+      },
+      {
+        "id": "26CD747CDAA440E6",
+        "place": {"semantic_type": "TYPE_WORK"},
+        "arrival_timing": {"time": {
+          "hour": 7,
+          "minute": 45
+        }}
+      }
+    ]
+  }
+]}

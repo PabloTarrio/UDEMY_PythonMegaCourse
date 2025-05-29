@@ -1,0 +1,3207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2106504,
+          43.2766304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:13:52.103236Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x57e38acf9c478a6b",
+        "location": {
+          "address": "Praza Pepito Arriola, 2, 15300 Betanzos, A Coruña, España",
+          "country_code": "ES",
+          "name": "Cervexaría MG"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-10 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Bajo, pero se puede conversar fácilmente"
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "3-4 personas"
+            ]
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2651441,
+          43.2946735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:13:13.972277Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8d7041143bf80f7f",
+        "location": {
+          "address": "Calle Brea, 66, 15640 Bergondo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Panadería Pan Artesano Guisamo"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-10 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Muy bajo"
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "1 persona"
+            ]
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4855008,
+          43.3173177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:09:39.236686Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa47f295fd8dce4f3",
+        "location": {
+          "address": "Av. Alcalde Manuel Platas Varela, 51, 53, 15141 Arteixo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Cervecería O'Sampaio"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-10 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 2
+          },
+          {
+            "question": "Servicio",
+            "rating": 2
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Muy bajo"
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "No lo sé"
+            ]
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2124172,
+          43.2772859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:09:08.128137Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x81bbb81efad7ea51",
+        "location": {
+          "address": "Av. Jesús García Naveira, 27, BAJO, 15300 Betanzos, A Coruña, España",
+          "country_code": "ES",
+          "name": "el Café de Segundo"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-10 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          },
+          {
+            "question": "Platos recomendados",
+            "selected_options": [
+              "Tortilla de Betanzos Ganadora del Concurso Este Año"
+            ]
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "2 personas",
+              "3-4 personas"
+            ]
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3053831,
+          43.2748643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:08:03.298170Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x474a1408b9cf8501",
+        "location": {
+          "address": "Rua Riveiriña, 8, 15659 Cambre, A Coruña, España",
+          "country_code": "ES",
+          "name": "Casa Becerra"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "10-20 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Moderado"
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "3-4 personas"
+            ]
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4105542,
+          43.3573133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:07:16.281920Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x63949c9dfdc7b72d",
+        "location": {
+          "address": "Av. dos Mallos, 13, 15007 A Coruña, España",
+          "country_code": "ES",
+          "name": "Pizzeria Fito"
+        },
+        "questions": [
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Comida"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "10-20 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Muy bajo"
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4080783,
+          43.3546987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-09T21:06:07.214791Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x499d792776e181de",
+        "location": {
+          "address": "Rúa Alcalde Asúnsolo, 10, 15007 A Coruña, España",
+          "name": "Cafe Bar Piscolabis de Loly"
+        },
+        "questions": [
+          {
+            "question": "Servicio",
+            "selected_option": "Comí allí"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-10 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          },
+          {
+            "question": "Platos recomendados",
+            "selected_options": [
+              "Tortilla de Patata Exquisita"
+            ]
+          },
+          {
+            "question": "Tipo de asiento",
+            "selected_options": [
+              "Zona de comedor interior",
+              "Zona de bar"
+            ]
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.0986025,
+          43.4728989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-08T15:20:41.923867Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb38f71b1b7e83980",
+        "location": {
+          "address": "Carr. Tereñes, 67, Bajo, 33347 Tereñes, Asturias, España",
+          "country_code": "ES",
+          "name": "La Portiella"
+        },
+        "questions": [
+          {
+            "question": "Servicio",
+            "selected_option": "Comí allí"
+          },
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Comida"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "20-30 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 3
+          },
+          {
+            "question": "Servicio",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.1623063,
+          43.4428500
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-08T15:19:57.563389Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x83da5337c78fcd6a",
+        "location": {
+          "address": "AS-342, Km 8, 33345 Alea, Asturias, España",
+          "country_code": "ES",
+          "name": "La Corralada Bar Tienda"
+        },
+        "questions": [
+          {
+            "question": "Servicio",
+            "selected_option": "Comí allí"
+          },
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Comida"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "20-30 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Platos recomendados",
+            "selected_options": [
+              "Fabada Asturiana",
+              "Tarta de la Nieta"
+            ]
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.0887300,
+          43.4645130
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-08T15:19:08.432519Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5844d3ab10aa0b8",
+        "location": {
+          "address": "Av. de Los Porqueros, sector 1, 33560 Ribadesella, Asturias, España",
+          "country_code": "ES",
+          "name": "Supermercados Alimerka"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.5738805,
+          43.2940324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-08T15:18:51.942359Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x24f869ecb92977a2",
+        "location": {
+          "address": "Calle Román, 36, 27841 Vilalba, Lugo, España",
+          "country_code": "ES",
+          "name": "Casa Do Rouco"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2096644,
+          43.2774426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-09-14T15:11:10.190693Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe9ebd332acf63597",
+        "location": {
+          "address": "Rúa Pintor Seijo Rubio, 7, 15300 Betanzos, A Coruña, España",
+          "country_code": "ES",
+          "name": "Poe Barber Show"
+        },
+        "questions": [
+          {
+            "question": "Servicios",
+            "selected_options": [
+              "Recorte de cejas",
+              "Mantenimiento de barba",
+              "Afeitado",
+              "Recorte de barba"
+            ]
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2101547,
+          43.2777943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-09-14T15:10:13.023102Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x624f6a4982775705",
+        "location": {
+          "address": "Praza Padre Francisco Blanco, 15300 Betanzos, A Coruña, España",
+          "country_code": "ES",
+          "name": "Churrería Chocolatería Betanzos"
+        },
+        "questions": [
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Desayuno"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-10 €"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          },
+          {
+            "question": "Platos recomendados",
+            "selected_options": [
+              "Chocolate Con Churros"
+            ]
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3668727,
+          43.3178479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-09-14T15:09:30.450040Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x11a5196d60c108af",
+        "location": {
+          "address": "CL, Rúa Manuel Azaña, 1, Bajo, 15670 O Burgo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Toloache"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.0587006,
+          43.4621736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-27T11:42:17.181874Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x674624a3ed3247f7",
+        "location": {
+          "address": "C. Gran Vía de Agustín Argüelles, 29, 33560 Ribadesella, Asturias, España",
+          "country_code": "ES",
+          "name": "BAR SEBAS - RIBADESELLA"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.1447388,
+          43.4352683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-09T15:31:40.565278Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9c449b435c13346f",
+        "location": {
+          "address": "El Acebu, 33345 Calabrez, Asturias, España",
+          "country_code": "ES",
+          "name": "Restaurante El Acebu"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2559032,
+          43.7677337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T17:21:16.153516Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x19bad7105e9aead6",
+        "location": {
+          "address": "Piazza dei Giudici, 1, 50122 Firenze FI, Italia",
+          "country_code": "IT",
+          "name": "Museo Galileo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.3324699,
+          43.3170734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-28T15:08:22.568224Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x94eb3a501d32e39d",
+        "location": {
+          "address": "Piazza Mercato, 6, 53100 Siena SI, Italia",
+          "country_code": "IT",
+          "name": "Antica Trattoria Papei"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3624643,
+          43.2793187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-19T16:20:35.275961Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd3025439257292fa",
+        "location": {
+          "address": "Cabana -Anceis, 10, 15181 Cambre, A Coruña, España",
+          "country_code": "ES",
+          "name": "O Xardin de Anceis"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1746181,
+          51.1618415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-05T19:32:30.592813Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x359980f00027eabe",
+        "location": {
+          "address": "North Terminal, Northway, Horley, Gatwick RH6 0GQ, Reino Unido",
+          "country_code": "GB",
+          "name": "Premier Inn London Gatwick Airport (North Terminal) hotel"
+        },
+        "questions": [
+          {
+            "question": "Tipo de viaje",
+            "selected_option": "Negocios"
+          },
+          {
+            "question": "Viaje en grupo",
+            "selected_option": "Solo/a"
+          },
+          {
+            "question": "Habitaciones",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 3
+          },
+          {
+            "question": "Ubicación",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4141423,
+          50.9049764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T17:13:31.572578Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x22597eb367baa7b3",
+        "location": {
+          "address": "3 W Quay Rd, Southampton SO15 1RA, Reino Unido",
+          "country_code": "GB",
+          "name": "ibis budget Southampton Centre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.3232419,
+          50.9268194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T17:13:12.283669Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x66dd718c0668105c",
+        "location": {
+          "address": "Botley Rd, West End, Southampton SO30 3XA, Reino Unido",
+          "country_code": "GB",
+          "name": "Holiday Inn Express Southampton M27, JCT.7 by IHG"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4437847,
+          42.9676826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T17:12:56.554236Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x23fda58fa260a66e",
+        "location": {
+          "address": "Av. de Compostela, 26, 15888 Sigüeiro, A Coruña, España",
+          "country_code": "ES",
+          "name": "Pastelería Panadería Che - Sigüeiro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4145347,
+          43.3564015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T17:12:47.807444Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd1f3f019f897aefe",
+        "location": {
+          "address": "Rúa San Jaime, 43, 15007 A Coruña, España",
+          "country_code": "ES",
+          "name": "Pescadería Muelle 43"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1287934,
+          51.5100100
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T17:09:57.402042Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc043b336f3f7eb47",
+        "location": {
+          "address": "9a Irving St, London WC2H 7AH, Reino Unido",
+          "country_code": "GB",
+          "name": "Vespa Italian Restaurant"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2104899,
+          43.2672078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T17:09:36.441524Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd0698c079a0070d",
+        "location": {
+          "address": "Roibeira, 45, A-6 SALIDA 565 A, 15319 Betanzos, A Coruña, España",
+          "country_code": "ES",
+          "name": "Parrillada Chimi Churri"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3707410,
+          43.2906258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-23T15:36:03.575047Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe717bd72f34ffe7d",
+        "location": {
+          "address": "Av. Alvedro, 5, 15189 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Coruña The Style Outlets"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3671530,
+          43.3180311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-21T06:05:14.422547Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1feca5331bee7397",
+        "location": {
+          "address": "Rúa Manuel Azaña, 1, 15670 O Burgo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Trocadero Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3584946,
+          43.3137230
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-21T06:05:11.084467Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd69cee569223fa1d",
+        "location": {
+          "address": "P.º Templarios, 5, 15679 O Temple, A Coruña, España",
+          "country_code": "ES",
+          "name": "Pulpeira Mesón A Ría"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.8805792,
+          48.3654214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-21T06:05:02.290506Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5eef1d8e48536986",
+        "location": {
+          "address": "Pferseer Str. 19, 86150 Augsburg, Alemania",
+          "country_code": "DE",
+          "name": "Enzo's Eiscafe & Pizzeria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3160903,
+          43.3217253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-21T06:04:55.904989Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc10f5f07270dfc4b",
+        "location": {
+          "address": "Carretera N-VI, Km 585, 15179 Oleiros, A Coruña, España",
+          "country_code": "ES",
+          "name": "Centro Comercial Parque Oleiros (Oleiros)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4002189,
+          43.3715131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-21T06:04:48.093928Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x60fcd4a84424b9be",
+        "location": {
+          "address": "Rúa Estreita de San Andrés, 20, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Pinocchio & co."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.8898357,
+          48.3648405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-06T16:46:36.457547Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb5bf09c8ae7bb8ac",
+        "location": {
+          "address": "Halderstraße 25, 86150 Augsburg, Alemania",
+          "country_code": "DE",
+          "name": "ibis Augsburg Hauptbahnhof"
+        },
+        "questions": [
+          {
+            "question": "Habitaciones",
+            "rating": 3
+          },
+          {
+            "question": "Servicio",
+            "rating": 3
+          },
+          {
+            "question": "Ubicación",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.5797494,
+          48.1376373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-05-01T16:13:00.513203Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa9c170edcdbd1a2f",
+        "location": {
+          "address": "Platzl 9, 80331 München, Alemania",
+          "country_code": "DE",
+          "name": "Cervecería de la Casa Real Múnich"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.5746845,
+          48.1370636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-05-01T16:12:44.056058Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1d011533e9c2c2f3",
+        "location": {
+          "address": "Marienplatz 28, 80331 München, Alemania",
+          "country_code": "DE",
+          "name": "Cafe Glockenspiel GmbH"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.5853110,
+          42.5002236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-23T19:50:04.274376Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4e58f9c74de96c86",
+        "location": {
+          "address": "C. la Industria, 15, 24231 Viloria de la Jurisdicción, León, España",
+          "country_code": "ES",
+          "name": "Asador de Viloria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4021958,
+          43.3686692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-02T12:15:15.163069Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x70d5e878664a87a9",
+        "location": {
+          "address": "Rúa Nova, 2, 15003 A Coruña, España",
+          "name": "Obelisco"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.5455765,
+          46.8390886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-02T12:14:58.899610Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6c0b01688241cd53",
+        "location": {
+          "address": "Rue Nungesser et Coli, 86100 Châtellerault, Francia",
+          "country_code": "FR",
+          "name": "Hôtel Châtellerault"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4627510,
+          43.5256720
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-02T12:14:51.572775Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x19ded7db2a26ccbf",
+        "location": {
+          "address": "Bd Jacques Duclos, 40220 Tarnos, Francia",
+          "country_code": "FR",
+          "name": "Carrefour Tarnos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4629180,
+          43.5285824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-02T12:14:45.737427Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x96327acc26ab798c",
+        "location": {
+          "address": "50 Bd Jacques Duclos, 40220 Tarnos, Francia",
+          "country_code": "FR",
+          "name": "B&B HOTEL Bayonne Tarnos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2533949,
+          47.2670521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:44:00.074450Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9c635c1d9211821d",
+        "location": {
+          "address": "5 Bis Rue des Troènes, 44600 Saint-Nazaire, Francia",
+          "country_code": "FR",
+          "name": "B&B HOTEL Saint-Nazaire Pornichet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2537761,
+          47.2669075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:43:48.708Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6ae433b47528ddff",
+        "location": {
+          "address": "5 Rue des Troènes, 44600 Saint-Nazaire, Francia",
+          "country_code": "FR",
+          "name": "Ma boulangerie café - Saint-Nazaire"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.5500151,
+          46.8430996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:43:37.300905Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x20fd89d3e656f27c",
+        "location": {
+          "address": "4 ter All. d'Argenson, 86100 Châtellerault, Francia",
+          "country_code": "FR",
+          "name": "Au Soleil d'Asie"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.6944276,
+          47.3907443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:43:22.093644Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc3c95e3ba6add0fe",
+        "location": {
+          "address": "33 Bd Heurteloup, 37000 Tours, Francia",
+          "country_code": "FR",
+          "name": "Hotel Val de Loire"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5112440,
+          48.6361043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:42:58.732749Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3b3b252279d89f96",
+        "location": {
+          "address": "L'Abbaye, 50170 Le Mont-Saint-Michel, Francia",
+          "country_code": "FR",
+          "name": "Abadía del Monte Saint-Michel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.6938308,
+          47.3954521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:42:40.300357Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1a613fc3ca6f67c7",
+        "location": {
+          "address": "Pl. de la Cathédrale, 37000 Tours, Francia",
+          "country_code": "FR",
+          "name": "Catedral de Tours"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.5426455,
+          46.8380645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:42:23.923732Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6e1ce58e4482453a",
+        "location": {
+          "address": "15 Rue Nungesser et Coli, 86100 Châtellerault, Francia",
+          "country_code": "FR",
+          "name": "B&B HOTEL Châtellerault"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.5435662,
+          46.8116132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-19T12:42:11.477802Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd5088ffb938235e2",
+        "location": {
+          "address": "1 Rue de la Paix, 86100 Châtellerault, Francia",
+          "country_code": "FR",
+          "name": "Baïla Pizza - Châtellerault"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4073595,
+          43.3612601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-13T22:02:03.286122Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x79d172128ca46b31",
+        "location": {
+          "address": "Rúa Juan Flórez, 95, 15005 A Coruña, España",
+          "country_code": "ES",
+          "name": "Vinoteca Casa Ponte"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3987500,
+          43.3709275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-13T22:01:50.643155Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x95afd801a865b538",
+        "location": {
+          "address": "Rúa Ángel, 9, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Barítono GastroCurruncho"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3833932,
+          43.3153401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:24:36.597456Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x79ccd4c472040134",
+        "location": {
+          "address": "De Vilaboa, 92, 15174 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Bazar Vilaboa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3672863,
+          43.3195564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:24:28.934279Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1a45a47b9802d175",
+        "location": {
+          "address": "15670 O Burgo, Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Paseo da Ría do Burgo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4066487,
+          43.3662727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:24:23.260184Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9b2a016578798d72",
+        "location": {
+          "address": "segunda planta, Praza de Lugo, 15004 A Coruña, España",
+          "country_code": "ES",
+          "name": "Panadería Laurita"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4097327,
+          43.3652120
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:24:16.194118Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x668d0743fafc7393",
+        "location": {
+          "address": "15004 a, Rúa Historiador Vedia, 1, 15004 A Coruña, España",
+          "country_code": "ES",
+          "name": "Praza de San Pablo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.8420076,
+          41.2222736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:24:08.774331Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd99ae556e86347f2",
+        "location": {
+          "address": "Carretera A-6, Km 147, 47493 San Vicente del Palacio, Valladolid, España",
+          "country_code": "ES",
+          "name": "1Gasolinera san Vicente del palacio, Valcarce"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4008833,
+          43.3822966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:24:02.551620Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf24cf0b7f3d601b5",
+        "location": {
+          "address": "Av. Navarra, 63, 15002 A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante Finisterrae"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3804757,
+          43.3280712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:23:42.374435Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x136064b0342db13f",
+        "location": {
+          "address": "Pl. de Ría, 1, bajo, 15174 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Pub Birras"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4149420,
+          43.3543352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:22:05.804345Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x60c92ad78b450ae0",
+        "location": {
+          "address": "Av. de Arteixo, 88, 15008 A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante La Masía"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3763389,
+          43.3378425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:21:57.495360Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb5c756bfc9666988",
+        "location": {
+          "address": "Rúa Humboldt, 8, 15172 Oleiros, A Coruña, España",
+          "country_code": "ES",
+          "name": "Pizzeria Piccolo Mondo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:21:37.550030Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x13ae643776c8aa9e",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4048064,
+          43.3691627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:21:27.530881Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdd7663f1403f6d75",
+        "location": {
+          "address": "Rúa Pastoriza, 10, bajo, 15003 A Coruña, España",
+          "country_code": "ES",
+          "name": "La Urbana"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4117106,
+          43.3654268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-26T21:21:08.612994Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc5e909b84ab73185",
+        "location": {
+          "address": "Rúa José Luis Pérez Cepeda, 15004 A Coruña, España",
+          "country_code": "ES",
+          "name": "Sushi&Beers"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4096123,
+          43.3837484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:59:13.305389Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa87ace100faaeb41",
+        "location": {
+          "address": "P.º Marítimo Alcalde Francisco Vázquez, 34, 15002 A Coruña, España",
+          "country_code": "ES",
+          "name": "Aquarium Finisterrae"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3984069,
+          43.3471805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:58:56.785539Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf44b61c16fbffccb",
+        "location": {
+          "address": "Rúa Antonio Noche López, 26, 15009 A Coruña, España",
+          "name": "JPcar s.c."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3569328,
+          43.3169482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:58:19.346710Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa9506cd02e48fded",
+        "location": {
+          "address": "Rúa Francisco Añón, 1, 15679 Cambre, A Coruña, España",
+          "country_code": "ES",
+          "name": "El Var"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3646448,
+          43.3142564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:58:11.142674Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf06880b5b4f09b",
+        "location": {
+          "address": "Avenida Galicia, 26, 15670 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "El Hoyo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4111762,
+          43.3631576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:57:57.841752Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xea709d503ed23d52",
+        "location": {
+          "address": "Gta. de América, 15004 A Coruña, España",
+          "country_code": "ES",
+          "name": "Palacio de la Ópera"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3716732,
+          43.3299624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:57:45.924220Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe57b62a735f21eb5",
+        "location": {
+          "address": "Avenida das Mariñas, 321, 15172 Perillo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante Asiático Internacional"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4056266,
+          43.3683462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:57:31.520442Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6a0840e2a9b99a7d",
+        "location": {
+          "address": "Pl. Cormelana, 7, bajo, 15003 A Coruña, España",
+          "country_code": "ES",
+          "name": "Kohlanta"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3707400,
+          43.3179420
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:57:16.492817Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x69e4c626dd0191e6",
+        "location": {
+          "address": "P.º Fernando II, 15670 Culleredo (San Esteban), A Coruña, España",
+          "country_code": "ES",
+          "name": "Bar S11 eseonce"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3655632,
+          43.3167088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:57:07.355422Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4176e8c2c055429c",
+        "location": {
+          "address": "Rúa Ferrocarril, 1, 15670 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante La Picotería"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3662173,
+          43.3162111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:56:55.584476Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xddd0d20093cb0607",
+        "location": {
+          "address": "Av. Coruña, 3, 15670 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Central"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2319119,
+          43.3228931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:56:44.111751Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x54e4297e24367dcd",
+        "location": {
+          "address": "Aldea San Isidro, 36, 15165 Bergondo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante San Isidro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3652081,
+          43.3142802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:55:32.396922Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf0f09fd088097598",
+        "location": {
+          "address": "Avenida Galicia, 26, 15670 O Burgo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Roble"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3585826,
+          43.3197097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-09T14:55:19.890488Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x891cd69802cb2ef6",
+        "location": {
+          "address": "P.º Marítimo, 14, 15679 O Graxal, A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante La Terraza El temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3622007,
+          43.3156090
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-11-22T21:03:59.800Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x67dff14c9b01de12",
+        "location": {
+          "address": "Av. Coruña, 22, 15670 O Burgo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Mesón A Cepa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3642563,
+          43.3264977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-11-22T21:03:51.857Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x18b4153d34703f0c",
+        "location": {
+          "address": "Esq. Rua Do, Avenida das Mariñas, 283, 15179 O Seixal, A Coruña, España",
+          "country_code": "ES",
+          "name": "Mercadona"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2683209,
+          43.2993096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:45:28.875Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa827f4cd28f0eb58",
+        "location": {
+          "address": "N-VI, 31, 15640 Bergondo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Bar La Madrileña"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4021172,
+          43.3545878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:44:41.573Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x34067cc1d0dbbb9e",
+        "location": {
+          "address": "Rúa Ramón y Cajal, Centro Comercial 4 Caminos, 15006 A Coruña, España",
+          "country_code": "ES",
+          "name": "C.C. Cuatro Caminos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:44:34.110Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x50112071eb5369fa",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4082519,
+          43.3384734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:44:21.400Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbda4932f48cbe0d1",
+        "location": {
+          "address": "Rúa Francisco Pérez Carballo, 5, 15008 A Coruña, España",
+          "country_code": "ES",
+          "name": "Carrefour"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3164830,
+          43.3212110
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:44:10.714Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x77747bab5541d0b1",
+        "location": {
+          "address": "Avenida Das Mariñas N-Vi Km. 585 Gps (Lat., Long.): 43° 19' 16,359\", -8° 18' 59,3382, 15171 Oleiros, A Coruña, España",
+          "country_code": "ES",
+          "name": "AKI Bricolaje Oleiros"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3843964,
+          43.3199109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:43:58.971Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9414c39535a09bd6",
+        "location": {
+          "address": "Av. Vilaboa, 193, bajo, 15174 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Inés e Hijos. Panaderia"
+        },
+        "review_text_published": "El mejor pan!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3949939,
+          43.3732996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:43:31.299Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c2f8edea2bf3e34",
+        "location": {
+          "address": "Pr. das Atochas, 8, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "La Quadriglia (Pza das Atochas A Coruña)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.0776512,
+          42.4294518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-08-21T08:43:14.757Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x47898c6d4bbc55dd",
+        "location": {
+          "address": "R. das Flores, 2, 32500 O Carballiño, Ourense, España",
+          "country_code": "ES",
+          "name": "Restaurante Pulpería Casa Gazpara"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3991238,
+          43.3724467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-15T09:19:16.206Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xadd5b65cffbc15ae",
+        "location": {
+          "address": "Rúa Panaderas, 49, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Alita Cómics ~ Librería Especializada"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.7274369,
+          42.2407366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-15T09:18:53.245Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4ecd1c8ce4791d23",
+        "location": {
+          "address": "Rúa Cánovas del Castillo, 1, 36202 Vigo, Pontevedra, España",
+          "country_code": "ES",
+          "name": "Centro Comercial A Laxe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3930460,
+          43.3706830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-15T09:18:46.038Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfa0533430f5f392f",
+        "location": {
+          "address": "Rúa de Santa María, 2, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "The Black Dog Tavern"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3742100,
+          43.3189000
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-15T09:18:37.432Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa767d55dbea42c00",
+        "location": {
+          "address": "Avenida Acea da Ma, 25, 15670 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Galp"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4033875,
+          43.3689647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-15T09:18:31.218Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8d918f8b4c117fd9",
+        "location": {
+          "address": "Rúa Mantelería, 3, 15003 A Coruña, España",
+          "country_code": "ES",
+          "name": "Mantelería (A Coruña)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3995148,
+          43.3724432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-15T09:18:22.910Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4bc063e1460cd743",
+        "location": {
+          "address": "Rúa Panaderas, 50, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Cervecería Rochester"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.0665115,
+          43.4646724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-04-29T09:35:05.885Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x644d292d7e0163d3",
+        "location": {
+          "address": "C. Avelina Cerra, 33560, Asturias, España",
+          "country_code": "ES",
+          "name": "Nerian Salón de té"
+        },
+        "review_text_published": "Le pongo 1 estrella para el camarero de mesa que fue amable y educado, no así el de la barra. Pero de todas formas 8€ por dos cafés y tostadas en un bar sin nada especial me parece una estafa."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4037312,
+          43.3403564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-25T20:51:14.276Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3cd478949c13fb63",
+        "location": {
+          "address": "Rúa Federico García, 5, 15009 A Coruña, España",
+          "name": "DV Performance"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3981354,
+          43.3746476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-25T20:51:06.702Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x42d8673c4620887a",
+        "location": {
+          "address": "Tr.ª la Torre, 8, 15002 A Coruña, España",
+          "country_code": "ES",
+          "name": "Mardi Gras"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3975296,
+          43.3734108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-25T20:50:57.958Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe68de72f44a95529",
+        "location": {
+          "address": "Praza de España, 27, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "JAZZ CAFÉ Food&Drink"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3910195,
+          43.3290498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-25T20:50:50.191Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xac52e4a0fbcd4ac1",
+        "location": {
+          "address": "Lugar Palavea, 1, 15009 A Coruña, España",
+          "country_code": "ES",
+          "name": "Alcampo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3648488,
+          43.3182538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-25T20:50:42.639Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3ca4722d0ea35a9e",
+        "location": {
+          "address": "Avenida Juan Carlos I, 15670 O Burgo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Gadis Hiper"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.5186885,
+          42.9039408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-13T05:57:15.734Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7fc59890055aaf83",
+        "location": {
+          "address": "Rúa do Cruceiro da Coruña, 183, 15890 Santiago de Compostela, A Coruña, España",
+          "country_code": "ES",
+          "name": "Louzao Santiago - Concesionario Oficial Mercedes-Benz y Smart"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5877896,
+          47.1612104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-13T05:57:06.656Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x76d00ea1926ac14a",
+        "location": {
+          "address": "Rue de l'Aviation, 44340 Bouguenais, Francia",
+          "name": "Airbus Atlantic"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.5407898,
+          42.8818857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-13T05:56:53.480Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4f54945613901e16",
+        "location": {
+          "address": "Rúa das Casas Reais, 25, 15704 Santiago de Compostela, A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante Cafetería La Flor (Santiago de Compostela)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4292933,
+          43.3454114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-13T05:56:46.799Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x63e9746f582d47a4",
+        "location": {
+          "address": "Est. Baños de Arteixo, 43, 15008 A Coruña, España",
+          "country_code": "ES",
+          "name": "Marineda City"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2661870,
+          43.2010324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-13T05:56:38.355Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3970638b6758f8c7",
+        "location": {
+          "address": "Lugar Campo de Ntra. Sra. de la Saleta, 30, 15318 Abegondo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Mesón-Museo Xente No Camiño"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4105580,
+          43.3674570
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-01T19:53:37.679Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa4c3c25345a3d685",
+        "location": {
+          "address": "Rúa Riazor, 5, 15004 A Coruña, España",
+          "country_code": "ES",
+          "name": "Garufa Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-01T19:53:29.827Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x28da8daf1075cb06",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3794275,
+          43.3390969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-01T19:53:22.627Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc765bf900440c6d4",
+        "location": {
+          "address": "Av. Américas, 55, 15172 Perillo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Bitácora de Santa Cristina Rest&Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4132962,
+          43.3630700
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-01T19:53:15.647Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x29ec532f1bfbb7a0",
+        "location": {
+          "address": "Avenida Finisterre, 99, 15004 A Coruña, España",
+          "country_code": "ES",
+          "name": "Alita Cómics (A Coruña)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5628660,
+          47.2231027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-01T19:53:00.054Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6df6f7dd7b92c21",
+        "location": {
+          "address": "42 Rue Russeil, 44000 Nantes, Francia",
+          "country_code": "FR",
+          "name": "Aparthotel Adagio Access Nantes Viarme"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4012480,
+          43.3699193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:31:42.540Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9eadf1d05d12e119",
+        "location": {
+          "address": "Rúa Galera, 47, 15003 A Coruña, España",
+          "country_code": "ES",
+          "name": "MALTE Galera"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3950187,
+          43.3739573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:31:28.838Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x81aaceef4c4a091b",
+        "location": {
+          "address": "Rúa Fuente Seoane, 3, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Los Ángeles"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1487171,
+          38.7162998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:31:15.515Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd4eaaed33f214e01",
+        "location": {
+          "address": "Praça do Príncipe Real, 1250-184 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Jardín del Príncipe Real"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4157383,
+          43.3601634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:31:01.220Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xab30eb9266c1e9c9",
+        "location": {
+          "address": "Rúa San Leandro, 5, 15007 A Coruña, España",
+          "country_code": "ES",
+          "name": "Parrillada Buenos Aires Coruña"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:30:43.597Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2d4cb77a8b200ce0",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6378801,
+          39.3913358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:30:26.540Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4d114082943984b",
+        "location": {
+          "address": "A. E 1 Km 84, 2001-701 Pernes, Portugal",
+          "country_code": "PT",
+          "name": "bp"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1406129,
+          38.7120383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:19:49.046Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x32d7f56592e02cef",
+        "location": {
+          "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Museo Arqueológico de Carmo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1592575,
+          38.7147650
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:19:34.171Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2bd79101bf03e891",
+        "location": {
+          "address": "Praça da Estrela, 1200-667 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Jardín Guerra Junqueiro (Jardín de la Estrella)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.3893376,
+          38.7925560
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:19:22.476Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x24f7fbfe228323e0",
+        "location": {
+          "address": "2710-405 Sintra, Portugal",
+          "country_code": "PT",
+          "name": "Castelo dos Mouros"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3646013,
+          43.3189696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:19:09.476Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4c08d1f1f09dfaee",
+        "location": {
+          "address": "Rúa Anxo Senra Fernández, 27 - 29, 15670 O Burgo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Xentes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4169583,
+          43.3618800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:19:02.979Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7ab6443c5014551f",
+        "location": {
+          "address": "Praza Comercio, 17, 15010 A Coruña, España",
+          "country_code": "ES",
+          "name": "Emporio de los Sándwiches.1971"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4034044,
+          43.3688147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:18:52.550Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2ba75f1134024354",
+        "location": {
+          "address": "La, Rúa Estrella, 12, 15003 A Coruña, España",
+          "country_code": "ES",
+          "name": "Sampaio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:18:39.409Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x43eaa1ae1e19b753",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3929059,
+          43.3706197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:18:26.516Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7bae02f50f61476e",
+        "location": {
+          "address": "Rúa Damas, 22, bajo Izda, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "El Ambigú"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.4075633,
+          43.3582312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:18:10.351Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x64915454b4ea361a",
+        "location": {
+          "address": "Rda. Nelle, 22, local B, 15005 A Coruña, España",
+          "name": "CORUÑA SAT. Samsung y Sony servicio oficial televisión, audio y vídeo."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3988023,
+          43.3774194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:18:03.975Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xda96b647cc50f278",
+        "location": {
+          "address": "Rúa Parque, 7-9, 15002 A Coruña, España",
+          "country_code": "ES",
+          "name": "Supermercados Gadis"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3044575,
+          43.3203162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:17:47.764Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3e25b40502715e3f",
+        "location": {
+          "address": "Avenida das Mariñas, 10, 15171 Oleiros, A Coruña, España",
+          "country_code": "ES",
+          "name": "Jardiland"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2859116,
+          43.3140308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:17:42.138Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc1a6f25dcf24549d",
+        "location": {
+          "address": "Polígono, N-VI, Km 582, 15168 Espíritu Santo, A Coruña, España",
+          "name": "Estación SYC Applus+ ITV do Espírito Santo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3739160,
+          43.3143780
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:17:33.302Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd669a3cc72d9fe5c",
+        "location": {
+          "address": "Av. Ribados, s/n, 15180 Culleredo, A Coruña, España",
+          "country_code": "ES",
+          "name": "Eroski Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3989033,
+          43.3729333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-24T07:17:25.946Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfdb1e34d588f2e3",
+        "location": {
+          "address": "Rúa Tabares, 1, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Bar restaurante O`Delito"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.8281303,
+          41.6916347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-02T23:49:48.489Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd7d35fa9663427f0",
+        "location": {
+          "address": "R. de Viana 114, 4900-515 Viana do Castelo, Portugal",
+          "country_code": "PT",
+          "name": "Restaurante Cogumelo Vermelho"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1334762,
+          38.7139092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-01T09:45:03.594Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb4c0704199e433d7",
+        "location": {
+          "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Castillo de San Jorge de Lisboa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1394297,
+          38.7121301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-01T09:44:54.097Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe1147c62e070697c",
+        "location": {
+          "address": "R. de Santa Justa, 1150-060 Lisboa, Portugal",
+          "name": "Elevador de Santa Justa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.2032276,
+          38.6975105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-01T09:44:43.279Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xffeff6c6b46d9665",
+        "location": {
+          "address": "R. de Belém 84 92, 1300-085 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "Pastelaria Pasteles de Belem"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1562700,
+          38.7076846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-01T09:44:29.187Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef9b0ee36520438c",
+        "location": {
+          "address": "Rua da Esperança 178, 1200-808 Lisboa, Portugal",
+          "country_code": "PT",
+          "name": "O Tachadas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.2342153,
+          43.2655370
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-06T21:36:56.325Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x509f053dfd8e8924",
+        "location": {
+          "address": "Montellos, 32, 15319 Betanzos, A Coruña, España",
+          "country_code": "ES",
+          "name": "Taberna García"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3995124,
+          43.3806485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-06T13:47:06.998Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb3ecf0b880376dcd",
+        "location": {
+          "address": "Av. Navarra, 33, BAJO, 15002 A Coruña, España",
+          "country_code": "ES",
+          "name": "Pulpeira O Fiuza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1163295,
+          42.9127276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-06T13:46:38.060Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x348ea1e9c2ee249c",
+        "location": {
+          "address": "Rio do Barco, s/n, 15297 Dumbría, A Coruña, España",
+          "country_code": "ES",
+          "name": "Cascada del Ézaro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3979817,
+          43.3721164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-06T13:46:09.964Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa17b63f6ffbea15b",
+        "location": {
+          "address": "Praza San Agustín, 1, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Mercado de San Agustín"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3989047,
+          43.3715205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-06T13:46:00.758Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5cfda4a640888143",
+        "location": {
+          "address": "Rúa San Agustín, 30, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Restaurante El Valentín"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3972360,
+          43.3724450
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-06T13:45:51.157Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6e980a1412215183",
+        "location": {
+          "address": "Rúa Praza, 1, 15001 A Coruña, España",
+          "country_code": "ES",
+          "name": "Ohliva Gourmet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-09-17T15:17:53.303Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x882bacd355d77dcf",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.5152247,
+          40.5718428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-08-09T14:46:18.295Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x528d9ecea54e01e6",
+        "location": {
+          "address": "R. Pateira 84, 3750-439 Fermentelos, Portugal",
+          "country_code": "PT",
+          "name": "UP Pateira Hotel"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}

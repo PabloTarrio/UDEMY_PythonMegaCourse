@@ -1,7 +1,6 @@
 # IMPORTACIÓN DE BIBLIOTECAS Y PAQUETES
 import folium
 import pandas
-import requests
 
 # DECLARACION DE FUNCIONES Y RUTINAS
 # Función: color_producer
@@ -35,9 +34,6 @@ map = folium.Map(
 #       FeatureGroup crea un grupo de características que despues podemos aplicar conjuntamente, en este caso para todos los Volcanes creamos una y para la capa de poblacion otra.
 fg_volcanoes = folium.FeatureGroup(name='My Volcanoes')
 fg_population = folium.FeatureGroup(name='Population')
-
-# Categorizamos los colores de MARKERS segun la elevación
-marker_elevation_color = 'green'
 
 # Añadir los MARCADORES al mapa con las características elegidas.
 for lt, ln, el, nm in zip(lat, lon, elev, name):

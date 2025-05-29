@@ -1,0 +1,101 @@
+{
+  "createdTime": "2009-05-17T19:53:21.365Z",
+  "modifiedTime": "2024-10-12T21:18:54.780Z",
+  "deviceSettings": [{
+    "deviceTag": -463481795,
+    "reportingEnabled": false,
+    "devicePrettyName": "2407FPN8EG",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2025-05-24T20:31:34.263Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2025-05-24T20:31:34.263Z"
+    },
+    "androidOsLevel": 35,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Xiaomi",
+      "product": "rothko_eea",
+      "device": "rothko",
+      "model": "2407FPN8EG",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": -507797041,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A146P",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-12-29T16:23:35.397Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-10-12T05:52:06.872Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a14xmeea",
+      "device": "a14xm",
+      "model": "SM-A146P",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": -1779120491,
+    "reportingEnabled": false,
+    "devicePrettyName": "AGS2-W09",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2020-10-29T22:24:06.387Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-10-12T05:25:14.499Z"
+    },
+    "androidOsLevel": 26,
+    "deviceSpec": {
+      "manufacturer": "HUAWEI",
+      "brand": "HUAWEI",
+      "product": "AGS2-W09EEA",
+      "device": "HWAGS2",
+      "model": "AGS2-W09",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "storeVisitControl": {
+    "enabled": false,
+    "updateTime": "2024-10-12T04:56:16.839337303Z"
+  },
+  "timelineEditUploadsControl": {
+    "enabled": false,
+    "updateTime": "2024-10-12T04:56:17.611147079Z"
+  },
+  "encryptedBackupsControls": {
+    "-1779120491": {
+      "enabled": false
+    },
+    "-507797041": {
+      "enabled": false
+    },
+    "-463481795": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-10-13T21:05:06.685Z",
+  "googleOpinionRewardsControl": {
+    "enabled": false,
+    "updateTime": "2024-08-04T07:34:21.999593592Z"
+  }
+}

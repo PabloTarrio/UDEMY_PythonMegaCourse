@@ -1,0 +1,52 @@
+{
+  "editAction": "ADD_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0xd417f4875e999c7:0x157fa62463101e7d",
+  "nameChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "text": {
+        "text": "BG HELICOPTER",
+        "language": "es"
+      }
+    }]
+  },
+  "pointChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "point": {
+        "latE7": 406399680,
+        "lngE7": -37753790
+      }
+    }]
+  },
+  "businessExistenceChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "businessExistence": "Abrir"
+    }]
+  },
+  "placeExistenceChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "placeExistence": "Publicado"
+    }]
+  },
+  "categoryChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "category": "Fábrica"
+    }]
+  },
+  "addressChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "address": {
+        "text": "Calle del Platino, 12, 28770 Colmenar Viejo, Madrid, España",
+        "language": "es"
+      }
+    }]
+  },
+  "metadata": {
+    "createTime": "2021-01-19T19:08:09.653511Z"
+  }
+}

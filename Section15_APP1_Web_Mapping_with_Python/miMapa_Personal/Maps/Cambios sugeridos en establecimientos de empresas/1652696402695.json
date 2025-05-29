@@ -1,0 +1,52 @@
+{
+  "editAction": "ADD_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0xd49e914ba0c8881:0x8df928d78acc23c8",
+  "nameChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "text": {
+        "text": "Bueno 5",
+        "language": "es"
+      }
+    }]
+  },
+  "pointChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "point": {
+        "latE7": 434293160,
+        "lngE7": -48688986
+      }
+    }]
+  },
+  "businessExistenceChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "businessExistence": "Abrir"
+    }]
+  },
+  "placeExistenceChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "placeExistence": "Publicado"
+    }]
+  },
+  "categoryChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "category": "Buffet libre"
+    }]
+  },
+  "addressChange": {
+    "operations": [{
+      "type": "Operación de ajuste",
+      "address": {
+        "text": "AS-379, 1, 33594 Llanes, Asturias",
+        "language": "es"
+      }
+    }]
+  },
+  "metadata": {
+    "createTime": "2022-05-16T10:20:02.695359Z"
+  }
+}
