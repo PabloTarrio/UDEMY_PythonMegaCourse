@@ -24,8 +24,8 @@ name = list(myData["NAME"])
 
 # Creación de Mapa con punto de inicialización, nivel de zoom y tipo de cartografía
 map = folium.Map(
-    location=[38.58, -99.09],
-    zoom_start=6,
+    location=[45, 0],
+    zoom_start=4,
     tiles="cartodb positron"
     )
 
@@ -54,6 +54,8 @@ fg_population.add_child (folium.GeoJson (data = open("./Resources/world.json",'r
                                                         else 'orange' if 10000000 <= x['properties']['POP2005'] < 50000000 
                                                         else 'red'}
                                                         ))
+
+
 
 # Añadir la capa de marcadores al mapa
 map.add_child(fg_volcanoes)

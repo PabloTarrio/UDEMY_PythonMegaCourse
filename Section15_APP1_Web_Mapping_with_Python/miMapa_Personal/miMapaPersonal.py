@@ -1,14 +1,16 @@
 # IMPORTACION DE BIBLIOTECAS Y PAQUETES
+import folium.plugins
 import pandas as pd
 import json
 import folium
 import string
+from folium.plugins import MiniMap
 
 # Crear mapa
 map = folium.Map(
-    location = [40.437925, -3.7619364],
-    zoom_start = 6,
-    tiles = 'cartodb positron'
+    location = [45, 0],
+    zoom_start = 4,
+    tiles = 'Cartodb dark_matter'
     )
 
 # Importamos los datos y abrimos el archivo
@@ -49,12 +51,29 @@ for lat, lon, nm in zip(latitud, longitud, nombre):
             color = 'gray',
             fill = True,
             fillColor = 'orange',
-            fillOpacity = 0.5
+            fillOpacity = 0.7
             ))
+
+
+
 
 # Añadir la capa de SITIOS GUARDADOS
 map.add_child(fg_saved)
 # Añadir el control de capas al mapa
 map.add_child(folium.LayerControl())
+# Añadir buscador de localizaciones el mapa
+folium.plugins.Geocoder(
+    position= 'topleft',
+    title = 'Search for...'
+).add_to(map)
+# Añadir minimapa
+MiniMap().add_to(map)
+# Añadir el boton de imagen a pantalla completa
+folium.plugins.Fullscreen(
+    position = 'bottomright',
+    title = 'Expand me',
+    title_cancel= 'Exit me',
+    force_separate_button= True
+).add_to(map)
 # Guardar el mapa en un fichero HTML
 map.save ("miMapa.html")
